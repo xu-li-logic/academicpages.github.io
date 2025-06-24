@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+PDF version [here](/files/CV250624.pdf), updated on 25/06/24.
+
 Education
 ======
 * Ph.D in Informatics, University of Luxembourg, 2025 (expected)
