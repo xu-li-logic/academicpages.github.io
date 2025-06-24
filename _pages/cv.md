@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Informatics, University of Luxembourg, 2025 (expected)
 * M.S. in Philosophy, Zhejiang University, 2021
-* B.S. in Law, South China Normal University, 2012
+* B.S. in Law, South China Normal University, 2018
 
 {::comment}
 Work experience

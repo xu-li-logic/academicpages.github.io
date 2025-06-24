@@ -10,7 +10,7 @@ redirect_from:
 PhD student in logic at the computer science department of the University of Luxembourg. I have worked on the following areas of logic:
 
 * Modal logic (deontic logic, epistemic logic, logic for social networks)
-* Input/Output Logic
+* [Input/Output Logic](https://doi.org/10.1023/A:1004748624537)
 * Formal argumentation
 
 Before joining the University of Luxembourg, I got my Master’s degree in philosophy from Zhejiang University and my Bachelor’s degree in law from South China Normal University.
